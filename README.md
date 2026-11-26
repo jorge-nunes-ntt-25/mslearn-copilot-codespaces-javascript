@@ -9,6 +9,17 @@ Explore how you can modify a JavaScript repository using code suggestions from G
 1. Enable your [GitHub Copilot service](https://github.com/github-copilot/signup)
 1. Open [this repository with Codespaces](https://codespaces.new/MicrosoftDocs/mslearn-copilot-codespaces-javascript?quickstart=1)
 
+## Run locally
+
+Install dependencies and start the development server:
+
+```bash
+npm install
+npm start
+```
+
+Open the local URL printed by Parcel (usually `http://localhost:1234`).
+
 ## 💪🏽 Exercise
 
 In this template portfolio, we have a React based web application ready for you to easily customize and deploy using only your web browser.
